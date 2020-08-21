@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to Lagrange!"
-author: "Paul Le"
+author: "Andrés Aroni"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
