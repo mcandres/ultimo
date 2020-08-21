@@ -3,6 +3,8 @@ layout: page
 title: Educación
 ---
 
+
+
 # Escuela
 Comencé en una escuela que se llamaba "Keysam" digo se llamaba porque ya no existe, era una escuela pequeña dónde me exoneraron porque estaba muy adelantado de conocimiento para primer grado en ese entonces creo, ya sabía sumar, restar jaja etc..
 Entonces fui a segundo grado y así terminé allí la escuela.
