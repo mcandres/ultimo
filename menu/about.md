@@ -17,5 +17,5 @@ Cuentan todo, y cuándo un profesor quiere proponer algo fuera de lugar para ayu
 
 En si hay vivir la vida, algunos nos toca en países pobres y otros en ricos y así, tratar siempre de mantener tus ideales hasta el final o como se conoce en la calle "real", y serlo con todas las personas, así sea te paguen mal pero obra bien, porque el infierno y el cielo son lugares que existen, yo lo soy testigo de ello jaja.
 
-    GRACIAS
+# GRACIAS!
 
