@@ -1,8 +1,8 @@
 
 ---
 layout: post
-title: "Bienvenidos a mi blog!"
-author: "Andrés Aroni"
+title: Bienvenidos a mi blog!"
+
 ---
 
 # hola
