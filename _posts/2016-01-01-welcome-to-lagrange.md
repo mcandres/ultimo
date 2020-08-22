@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CACA!"
-image: mountains.jpg
+image: ben.png
 ---
 
-hola
+Hola que tal bienvenidos a todos a mi página, esta es una página que contiene información personal con fines acádemicos
