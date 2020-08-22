@@ -14,23 +14,11 @@ title: Home
   </div>
   {% endif %}
   <p>
-    {{ post.content | strip_html | truncate: 20 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
+    {{ post.content | strip_html | truncate: 20 }} <a href="{{ site.github.url }}{{ post.url }}">Leer más</a>
     
   </p>
 </div>
 {% endfor %}
 
 <!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-button pagination-active next" href="{{ site.github.url }}{{ paginator.next_page_path }}">{{ site.data.settings.pagination.previous_page }}</a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
-  {% endif %}
 
-  {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ site.data.settings.pagination.next_page }}</a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
-  {% endif %}
-</div>
