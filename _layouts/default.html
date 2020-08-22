@@ -2,7 +2,6 @@
 <html>
 
 {% include head.html %}
-{% if post.image %}
 
 <body>
 
@@ -14,11 +13,6 @@
     </div>
 
     {% include footer.html %}
-
-  <div class="thumbnail-container">
-    <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}"></a>
-  </div>
-  {% endif %}
 
   </div>
 
