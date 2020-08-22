@@ -1,10 +1,9 @@
+
 ---
 layout: post
-title: "Welcome to Lagrange!"
+title: "Bienvenidos a mi blog!"
 author: "Andrés Aroni"
-categories: journal
-tags: [documentation,sample]
-image: segundos mas tarde.png
 ---
 
-hola
+# hola
+que tal como estan?
